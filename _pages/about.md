@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-I am a yourth-year Ph.D student in School of Software, Tsinghua University, Beijing, China. I worked with Professor Guiguang Ding on Cross-modal-related tasks, such as image captioning, cross-modal image-text retrieval, temporal moment localization, etc.
+I am a yourth-year Ph.D student in School of Software, Tsinghua University, Beijing, China. I worked with Professor Guiguang Ding on cross-modal-related tasks, such as image captioning, cross-modal image-text retrieval, temporal moment localization, etc.
