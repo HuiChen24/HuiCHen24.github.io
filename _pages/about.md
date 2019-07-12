@@ -12,8 +12,8 @@ I am a yourth-year Ph.D student in School of Software, Tsinghua University, Beij
 
 Education
 ======
-* B.S. in Computer Science and Technology, Tsinghua University, 2012.08-2016.07
 * Ph.D in School of Software, Tsinghua University, 2016.08-now
+* B.S. in Computer Science and Technology, Tsinghua University, 2012.08-2016.07
 
 Publication
 =====
