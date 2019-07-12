@@ -17,5 +17,5 @@ Education
 
 Publication
 =====
-Hui Cheny, Zijia Lin, Guiguang Ding, Jianguang Louz, Yusen Zhangx, Borje Karlsson. GRN: Gated Relation Network to Enhance Convolutional Neural Network for Named Entity Recognition. AAAI2019. [pdf](http://ise.thss.tsinghua.edu.cn/MIG/2019-2.pdf)[Code](https://github.com/HuiChen24/NER-GRN)
+Hui Cheny, Zijia Lin, Guiguang Ding, Jianguang Louz, Yusen Zhangx, Borje Karlsson. GRN: Gated Relation Network to Enhance Convolutional Neural Network for Named Entity Recognition. AAAI2019. \[pdf](http://ise.thss.tsinghua.edu.cn/MIG/2019-2.pdf) \[Code](https://github.com/HuiChen24/NER-GRN)
 
