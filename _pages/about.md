@@ -17,5 +17,10 @@ Education
 
 Publications
 =====
-Hui Chen, Zijia Lin, Guiguang Ding, Jianguang Lou, Yusen Zhang, Borje Karlsson. GRN: Gated Relation Network to Enhance Convolutional Neural Network for Named Entity Recognition. AAAI2019. [[pdf](http://ise.thss.tsinghua.edu.cn/MIG/2019-2.pdf)][[Code](https://github.com/HuiChen24/NER-GRN)]
+
+* Hui Chen, Guiguang Ding, Xudong Liu, Zijia Lin, Ji Liu, Jungong Han. IMRAM: Iterative Matching with Recurrent Attention Memory for Cross-Modal Image-Text Retrieval. CVPR2020. [[Code](https://github.com/HuiChen24/IMRAM)]
+
+* Hui Chen, Zijia Lin, Guiguang Ding, Jianguang Lou, Yusen Zhang, Borje Karlsson. GRN: Gated Relation Network to Enhance Convolutional Neural Network for Named Entity Recognition. AAAI2019. [[pdf](http://ise.thss.tsinghua.edu.cn/MIG/2019-2.pdf)][[Code](https://github.com/HuiChen24/NER-GRN)]
+
+
 
