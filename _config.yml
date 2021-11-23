@@ -10,7 +10,7 @@ locale                   : "China"
 title                    : "Hui Chen"
 title_separator          : "-"
 name                     : &name "Hui Chen"
-description              : &description "Ph.D student at Tsinghua University"
+description              : &description "Tsinghua University"
 url                      : https://HuiChen24.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "HuiChen24.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Hui Chen"
   avatar           : "profile.png"
-  bio              : "Ph.D. student in School of Software, Tsinghua University"
+  bio              : "Tsinghua University"
   location         : "Beijing, China"
   employer         :
   pubmed           :
