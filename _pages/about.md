@@ -16,6 +16,7 @@ Education
 
 Publications
 =====
+* Tianxiang Hao, Hui Chen<sup>*, Yuchen Guo, Guiguang Ding<sup>*. Consolidator: Mergable Adapter with Group Connections for Visual Adaptation. ICLR2023.
 
 * Hui Chen, Guiguang Ding, Xudong Liu, Zijia Lin, Ji Liu, Jungong Han. IMRAM: Iterative Matching with Recurrent Attention Memory for Cross-Modal Image-Text Retrieval. CVPR2020.
 
