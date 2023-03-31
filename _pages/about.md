@@ -17,6 +17,9 @@ Education
 Publications
 =====
 
+
+* Tianxiang Hao, Hui Chen<sup>*, Yuchen Guo, Guiguang Ding<sup>*. Consolidator: Mergable Adapter with Group Connections for Vision Transformer. ICLR2023.
+
 * Hui Chen, Guiguang Ding, Xudong Liu, Zijia Lin, Ji Liu, Jungong Han. IMRAM: Iterative Matching with Recurrent Attention Memory for Cross-Modal Image-Text Retrieval. CVPR2020.
 
 * Hui Chen, Guiguang Ding, Zijia Lin, Sicheng Zhao, Xiaopeng Gu, Wenyuan Xu, Jungong Han. ACMNet: Adaptive confidence matching network for human behavior analysis via cross-modal retrieval. ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM), 2020.
