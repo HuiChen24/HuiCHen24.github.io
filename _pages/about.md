@@ -16,20 +16,17 @@ Education
 
 Publications
 =====
-* Tianxiang Hao, Hui Chen<sup>*, Yuchen Guo, Guiguang Ding<sup>*. Consolidator: Mergable Adapter with Group Connections for Visual Adaptation. ICLR2023.
+* Tianxiang Hao, Hui Chen<sup>\*</sup>, Yuchen Guo, Guiguang Ding<sup>\*</sup>. Consolidator: Mergable Adapter with Group Connections for Visual Adaptation. ICLR2023.
 
-* Hui Chen, Guiguang Ding, Xudong Liu, Zijia Lin, Ji Liu, Jungong Han. IMRAM: Iterative Matching with Recurrent Attention Memory for Cross-Modal Image-Text Retrieval. CVPR2020.
+* Hui Chen, Guiguang Ding<sup>\*</sup>, Xudong Liu, Zijia Lin, Ji Liu, Jungong Han. IMRAM: Iterative Matching with Recurrent Attention Memory for Cross-Modal Image-Text Retrieval. CVPR2020.
 
-* Hui Chen, Guiguang Ding, Zijia Lin, Sicheng Zhao, Xiaopeng Gu, Wenyuan Xu, Jungong Han. ACMNet: Adaptive confidence matching network for human behavior analysis via cross-modal retrieval. ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM), 2020.
+* Hui Chen, Guiguang Ding<sup>\*</sup>, Zijia Lin, Sicheng Zhao, Xiaopeng Gu, Wenyuan Xu, Jungong Han. ACMNet: Adaptive confidence matching network for human behavior analysis via cross-modal retrieval. ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM), 2020.
 
-* Hui Chen, Guiguang Ding, Zijia Lin, Sicheng Zhao, Jungong Han. Cross-Modal Image-Text Retrieval with Semantic Consistency. ACM MM2019. 
+* Hui Chen, Guiguang Ding<sup>\*</sup>, Zijia Lin, Sicheng Zhao, Jungong Han. Cross-Modal Image-Text Retrieval with Semantic Consistency. ACM MM2019. 
 
-* Sicheng Zhao, Zizhou Jia, Hui Chen, Leida Li, Guiguang Ding, Kurt Keutzer. PDANet: Polarity-consistent deep attention network for fine-grained visual emotion regression. ACM MM2019
 
-* Hui Chen, Zijia Lin, Guiguang Ding, Jianguang Lou, Yusen Zhang, Borje Karlsson. GRN: Gated Relation Network to Enhance Convolutional Neural Network for Named Entity Recognition. AAAI2019.
+* Hui Chen, Zijia Lin, Guiguang Ding<sup>\*</sup>, Jianguang Lou, Yusen Zhang, Borje Karlsson. GRN: Gated Relation Network to Enhance Convolutional Neural Network for Named Entity Recognition. AAAI2019.
 
-* Hui Chen, Guiguang Ding, Zijia Lin, Sicheng Zhao, Jungong Han. Show, Observe and Tell: Attribute-driven Attention Model for Image Captioning. IJCAI2018.
+* Hui Chen, Guiguang Ding<sup>\*</sup>, Zijia Lin, Sicheng Zhao, Jungong Han. Show, Observe and Tell: Attribute-driven Attention Model for Image Captioning. IJCAI2018.
 
-* Hui Chen, Guiguang Ding, Zijia Lin, Sicheng Zhao, Jungong Han. Temporal-difference learning with sampling baseline for image captioning. AAAI2018.
-
-* Minghai Chen, Guiguang Ding, Sicheng Zhao, Hui Chen, Qiang Liu, Jungong Han. Reference based LSTM for image captioning. AAAI2017.
+* Hui Chen, Guiguang Ding<sup>\*</sup>, Zijia Lin, Sicheng Zhao, Jungong Han. Temporal-difference learning with sampling baseline for image captioning. AAAI2018.
