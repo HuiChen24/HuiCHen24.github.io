@@ -8,14 +8,24 @@ redirect_from:
   - /about.html
 ---
 
+Employment History
+======
+* Assistant researcher in Beijing National Research Center for Information Science and Technology, Tsinghua University, 2023.07-now
+* Postdoctor in Department of Automation, Tsinghua University, 2021.07-2023.07
+
 Education
 ======
-* Postdoctor in Department of Automation, Tsinghua University, 2021.07-now
 * Ph.D in School of Software, Tsinghua University, 2016.08-2021.06
 * B.S. in Computer Science and Technology, Tsinghua University, 2012.08-2016.07
 
 Publications
 =====
+* Yizhe Xiong, Hui Chen<sup>\*</sup>, Zijia Lin, Sicheng Zhao, Guiguang Ding<sup>\*</sup>. Confidence-based Visual Dispersal for Few-shot Unsupervised Domain Adaptation. ICCV2023.
+
+* Mengyao Lyu, Jundong Zhou, Hui Chen, Yijie Huang, Dongdong Yu, Yaqian Li, Yandong Guo, Yuchen Guo, Liuyu Xiang, Guiguang Ding. Box-Level Active Detection. CVPR2023.
+
+* Zixuan Ding, Ao Wang, Hui Chen<sup>\*</sup>, Qiang Zhang, Pengzhang Liu, Yongjun Bao, Weipeng Yan, Jungong Han. Exploring Structured Semantic Prior for Multi-Label Recognition with Incomplete Labels. CVPR2023.
+
 * Tianxiang Hao, Hui Chen<sup>\*</sup>, Yuchen Guo, Guiguang Ding<sup>\*</sup>. Consolidator: Mergable Adapter with Group Connections for Visual Adaptation. ICLR2023.
 
 * Hui Chen, Guiguang Ding<sup>\*</sup>, Xudong Liu, Zijia Lin, Ji Liu, Jungong Han. IMRAM: Iterative Matching with Recurrent Attention Memory for Cross-Modal Image-Text Retrieval. CVPR2020.
