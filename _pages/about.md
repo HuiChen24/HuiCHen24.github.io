@@ -20,6 +20,8 @@ Education
 
 Publications
 =====
+* Ao Wang, Hui Chen<sup>\*</sup>, Zijia Lin, Zixuan Ding, Pengzhang Liu, Yongjun Bao, Weipeng Yan, Guiguang Ding<sup>\*</sup>. Hierarchical Prompt Learning Using CLIP for Multi-label Classification with Single Positive Labels. ACM MM2023.
+
 * Yizhe Xiong, Hui Chen<sup>\*</sup>, Zijia Lin, Sicheng Zhao, Guiguang Ding<sup>\*</sup>. Confidence-based Visual Dispersal for Few-shot Unsupervised Domain Adaptation. ICCV2023.
 
 * Mengyao Lyu, Jundong Zhou, Hui Chen, Yijie Huang, Dongdong Yu, Yaqian Li, Yandong Guo, Yuchen Guo, Liuyu Xiang, Guiguang Ding. Box-Level Active Detection. CVPR2023.
