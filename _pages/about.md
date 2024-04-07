@@ -20,6 +20,10 @@ Education
 
 Publications
 =====
+* Fan Yang, Hui Chen<sup>\*</sup>, Yuwei He, Sicheng Zhao, Chenghao Zhang, Kai Ni, Guiguang Ding<sup>\*</sup>. Geometry-Guided Domain Generalization for Monocular 3D Object Detection. AAAI 2024
+
+* Fan Yang, Xinhao Xu, Hui Chen, Yuchen Guo, Yuwei He, Kai Ni, Guiguang Ding. GPro3D: Deriving 3D BBox from ground plane in monocular 3D object detection. Neurocomputing 2023
+
 * Ao Wang, Hui Chen<sup>\*</sup>, Zijia Lin, Zixuan Ding, Pengzhang Liu, Yongjun Bao, Weipeng Yan, Guiguang Ding<sup>\*</sup>. Hierarchical Prompt Learning Using CLIP for Multi-label Classification with Single Positive Labels. ACM MM2023.
 
 * Yizhe Xiong, Hui Chen<sup>\*</sup>, Zijia Lin, Sicheng Zhao, Guiguang Ding<sup>\*</sup>. Confidence-based Visual Dispersal for Few-shot Unsupervised Domain Adaptation. ICCV2023.
