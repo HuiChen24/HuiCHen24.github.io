@@ -20,15 +20,24 @@ Education
 
 Publications
 =====
-* Fan Yang, Hui Chen<sup>\*</sup>, Yuwei He, Sicheng Zhao, Chenghao Zhang, Kai Ni, Guiguang Ding<sup>\*</sup>. Geometry-Guided Domain Generalization for Monocular 3D Object Detection. AAAI 2024
 
-* Fan Yang, Xinhao Xu, Hui Chen, Yuchen Guo, Yuwei He, Kai Ni, Guiguang Ding. GPro3D: Deriving 3D BBox from ground plane in monocular 3D object detection. Neurocomputing 2023
+* Hui-Yue Yang, Hui Chen<sup>\*</sup>, Ao Wang, Kai Chen, Zijia Lin, Yongliang Tang, Pengcheng Gao, Yuming Quan, Jungong Han, Guiguang Ding. Promptable Anomaly Segmentation with SAM Through Self-Perception Tuning. AAAI 2025.
+
+* Ao Wang, Hui Chen<sup>\*</sup>, Lihao Liu, Kai Chen, Zijia Lin, Jungong Han, Guiguang Ding<sup>\*</sup>. Yolov10: Real-time end-to-end object detection. NeurIPS 2024
+
+* Yizhe Xiong, Hui Chen<sup>\*</sup>, Tianxiang Hao, Zijia Lin, Jungong Han, Yuesong Zhang, Guoxin Wang, Yongjun Bao, Guiguang Ding. Pyra: Parallel yielding re-activation for training-inference efficient task adaptation. ECCV 2024
+
+* Mengyao Lyu, Tianxiang Hao, Xinhao Xu, Hui Chen<sup>\*</sup>, Zijia Lin, Jungong Han, Guiguang Ding<sup>\*</sup>. Learn from the Learnt: Source-Free Active Domain Adaptation via Contrastive Sampling and Visual Persistence. ECCV 2024
+
+* Xinhao Xu, Hui Chen<sup>\*</sup>, Zijia Lin, Jungong Han, Lixing Gong, Guoxin Wang, Yongjun Bao, Guiguang Ding. Tad: A plug-and-play task-aware decoding method to better adapt llms on downstream tasks. IJCAI 2024
+
+* Ao Wang, Hui Chen<sup>\*</sup>, Zijia Lin, Jungong Jan, Guiguang Ding<sup>\*</sup>. Repvit: Revisiting mobile cnn from vit perspective. CVPR 2024
+
+* Fan Yang, Hui Chen<sup>\*</sup>, Yuwei He, Sicheng Zhao, Chenghao Zhang, Kai Ni, Guiguang Ding<sup>\*</sup>. Geometry-Guided Domain Generalization for Monocular 3D Object Detection. AAAI 2024
 
 * Ao Wang, Hui Chen<sup>\*</sup>, Zijia Lin, Zixuan Ding, Pengzhang Liu, Yongjun Bao, Weipeng Yan, Guiguang Ding<sup>\*</sup>. Hierarchical Prompt Learning Using CLIP for Multi-label Classification with Single Positive Labels. ACM MM2023.
 
 * Yizhe Xiong, Hui Chen<sup>\*</sup>, Zijia Lin, Sicheng Zhao, Guiguang Ding<sup>\*</sup>. Confidence-based Visual Dispersal for Few-shot Unsupervised Domain Adaptation. ICCV2023.
-
-* Mengyao Lyu, Jundong Zhou, Hui Chen, Yijie Huang, Dongdong Yu, Yaqian Li, Yandong Guo, Yuchen Guo, Liuyu Xiang, Guiguang Ding. Box-Level Active Detection. CVPR2023.
 
 * Zixuan Ding, Ao Wang, Hui Chen<sup>\*</sup>, Qiang Zhang, Pengzhang Liu, Yongjun Bao, Weipeng Yan, Jungong Han. Exploring Structured Semantic Prior for Multi-Label Recognition with Incomplete Labels. CVPR2023.
 
@@ -39,7 +48,6 @@ Publications
 * Hui Chen, Guiguang Ding<sup>\*</sup>, Zijia Lin, Sicheng Zhao, Xiaopeng Gu, Wenyuan Xu, Jungong Han. ACMNet: Adaptive confidence matching network for human behavior analysis via cross-modal retrieval. ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM), 2020.
 
 * Hui Chen, Guiguang Ding<sup>\*</sup>, Zijia Lin, Sicheng Zhao, Jungong Han. Cross-Modal Image-Text Retrieval with Semantic Consistency. ACM MM2019. 
-
 
 * Hui Chen, Zijia Lin, Guiguang Ding<sup>\*</sup>, Jianguang Lou, Yusen Zhang, Borje Karlsson. GRN: Gated Relation Network to Enhance Convolutional Neural Network for Named Entity Recognition. AAAI2019.
 
